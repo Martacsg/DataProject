@@ -4,7 +4,7 @@
 Procesamiento de datos sin servidor | EDEM 2022
 
 #### Descripción del caso
-A.Y.U.D.A es una startup enfocada a la protección de la salud. Su primer reto es la asistencia médica y psicológica de los adultos de mayor edad, pero tienen la .. de escalar su solución a bebes y demás personas que puedan ser susceptibles de necesitarlo. Para lograr este desafío, han lanzado una RFP para monitorear la temperatura y la humedad con el fin de regular la temperatura óptima de nuestros hogares.
+A.Y.U.D.A es una startup enfocada a la protección de la salud. Su primer reto es la asistencia médica y psicológica de los adultos de mayor edad, pero tienen la .. de escalar su solución a bebes y demás personas que puedan ser susceptibles de necesitarlo. Para lograr este desafío, han lanzado una RFP para monitorear  la frecuencia cardiaca, la temperatura, la presión arterial y la calidad del sueño con el fin de regular la temperatura óptima de nuestros hogares.
 
 #### Desafíos empresariales
 
