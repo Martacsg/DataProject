@@ -4,12 +4,12 @@
 Procesamiento de datos sin servidor | EDEM 2022
 
 #### Descripción del caso
-Wake es una startup enfocada en la arquitectura sostenible. Uno de sus muchos retos es la reducción del consumo eléctrico en los edificios. Para lograr este desafío, han lanzado una RFP para monitorear la temperatura y la humedad con el fin de regular la temperatura óptima de nuestros hogares.
+A.Y.U.D.A es una startup enfocada a la protección de la salud. Su primer reto es la asistencia médica y psicológica de los adultos de mayor edad, pero tienen la .. de escalar su solución a bebes y demás personas que puedan ser susceptibles de necesitarlo. Para lograr este desafío, han lanzado una RFP para monitorear la temperatura y la humedad con el fin de regular la temperatura óptima de nuestros hogares.
 
 #### Desafíos empresariales
 
-- Parte 01: Monitorear la temperatura y humedad registradas y mostrarlas en un tablero para ayudar a las partes interesadas a tomar decisiones.
-- Parte 02: Regular la climatización cuando se registra un rango de temperatura inadecuado durante un determinado periodo.
+- Parte 01: Monitorear la frecuencia cardiaca, la temperatura, la presión arterial y la calidad del sueño registradas y mostrarlas en un tablero para ayudar a las partes interesadas a tomar decisiones.
+- Parte 02: Avisar a los servicios sanitarios cuando se registra un rango en las variables monotorizadas inadecuado.
 
 #### Arquitectura de datos
 <img src="00_DocAux/iot_arch.jpg" width="700"/>
