@@ -17,7 +17,7 @@ A.Y.U.D.A es una startup enfocada a la protección de la salud. Su primer reto e
 # Parte 01: Procesamiento de datos sin servidor con Dataflow
 
 ## Requisitos de configuración
-- [Google Cloud Platform - Prueba gratuita](https://console.cloud.google.com/freetrial)
+- [Google Cloud Platform ](https://console.cloud.google.com/)
 - Clona este **repositorio**
 - Para esta demostración, trabajaremos en un **Cloud Shell**.
 - Habilite las *Google Cloud API* requeridas ejecutando los siguientes comandos:
